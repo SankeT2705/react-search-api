@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-search-api/static/css/main.577d6b91.css",
+    "main.js": "/react-search-api/static/js/main.7006736b.js",
+    "index.html": "/react-search-api/index.html",
+    "main.577d6b91.css.map": "/react-search-api/static/css/main.577d6b91.css.map",
+    "main.7006736b.js.map": "/react-search-api/static/js/main.7006736b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.577d6b91.css",
+    "static/js/main.7006736b.js"
+  ]
+}
