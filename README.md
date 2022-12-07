@@ -1,3 +1,6 @@
+
+React application in which we get result as image after giving keyword or any related info.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
